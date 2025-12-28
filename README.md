@@ -45,6 +45,15 @@
 🟢 Focused on logic-building, pattern recognition, and long-term mastery  
 
 ---
+### 📈 Live DSA Progress (Auto-Updated)
+
+**DSA Progress:** `--/100`  
+🟢 **Completion:** `--%`
+
+![DSA Progress Badge](https://img.shields.io/badge/100%20Days%20DSA-In%20Progress-brightgreen?style=for-the-badge)
+
+
+---
 
 
 
