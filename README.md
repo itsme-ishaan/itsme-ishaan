@@ -58,8 +58,24 @@ I see myself as:
 
 ---
 🌐 Check out my Portfolio Project:
-🚀 [![Portfolio](https://img.shields.io/badge/Portfolio-🚀Live-blue)]([https://itsme-ishaan.github.io/FullStack-Project/](https://itsme-ishaan.github.io/FullStack-Portfolio-Project/))[FullStack Portfolio Project Live ]([https://itsme-ishaan.github.io/FullStack-Project/](https://itsme-ishaan.github.io/FullStack-Portfolio-Project/])
-🧠 Built With: HTML, CSS, JS, React/Node
+
+🚀 **Live Portfolio:**  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=vercel)](https://itsme-ishaan.github.io/FullStack-Portfolio-Project/)
+
+🔗 **Direct Link:**  
+https://itsme-ishaan.github.io/FullStack-Portfolio-Project/
+
+---
+
+### 🧠 Built With
+- HTML  
+- CSS  
+- JavaScript  
+- React  
+- Node.js  
+
+> A clean, evolving full-stack portfolio reflecting my learning journey, design clarity,  
+> and system-level thinking. Built to scale with my skills.
 
 ---
 
