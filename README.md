@@ -1,7 +1,58 @@
 ![Alt Text](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 ---
-# 💫 About Me:
-👋 Hi, I’m itsme-Ishaan<br><br>🎓 Student | 🧠 Research-oriented Learner | 🌌 Explorer of Mind, Math & Reality<br><br>I’m a student and independent researcher who genuinely loves learning across diverse domains. I don’t restrict myself to one track — I explore systems, structures, and patterns that exist beneath the surface of things.<br><br>🔭 Currently Working On<br><br>🧩 DSA problem-solving (logic-first, not rote)<br><br>🐍 Python – 100 Days Bootcamp<br><br>📚 MCA core curriculum<br><br>🧠 Side exploration of Neuroscience, Computer Science, Quantum Physics, and how these fields silently connect<br><br>🤝 Looking to Collaborate With<br><br>🚀 Startup-minded & visionary thinkers<br><br>🧠 People who can see through systems with clarity<br><br>🌍 Builders who think beyond placements and short-term paths<br><br>🧭 Looking For Help With<br><br>🧠 Mindset expansion & clarity<br><br>💡 Funding & long-term vision<br><br>🧑‍🤝‍🧑 Finding like-minded people who understand that<br>the future isn’t distant — infinite possibilities already exist in the present<br><br>🌱 Currently Learning & Practicing<br><br>🧘 Meditation, self-work & deep self-reflection<br><br>🧠 Cognitive expansion & dynamic thinking<br><br>📐 Logical, analytical, abstract & rational thinking<br><br>🔗 Blending DSA + Python with multiple disciplines<br><br>💬 Ask Me About<br><br>🧩 DSA & problem-solving logic<br><br>🧠 Philosophy, consciousness & layers of mind<br><br>🌌 Hidden mathematics & structure of universal order<br><br>🔍 How different fields secretly connect<br><br>(I’m not a god-level knower — just deeply curious and honest in exploration.)<br><br>⚡ Fun Fact<br><br>🕯️ I can sit silently with myself for hours<br><br>🌊 I experience everything within a silent field of awareness<br><br>🧬 How I’d Describe Myself<br><br>🧊 Cool | 🎯 Minimalistic | 📚 Intellectual | 🌊 Deep<br>🚀 Achiever | 🔬 Scientific | 🧘 Spiritual<br>✨ A rare mix — with clarity to see through systems, not just live inside them
+# Hi, I’m itsme-Ishaan
+
+**Student | Independent Researcher | Explorer of Mind, Math & Reality**
+
+I am a learner who seeks to understand systems, patterns, and structures beneath the surface of things. My curiosity spans multiple domains — from computer science to neuroscience, and from mathematics to the subtle layers of consciousness.
+
+---
+
+## Currently Working On
+- **DSA problem-solving** — logic-first, not rote
+- **Python** — 100 Days Bootcamp
+- **MCA Core Curriculum**
+- **Side Explorations:** Neuroscience, Quantum Physics, Computer Science, and their subtle interconnections
+
+---
+
+## Seeking Collaboration With
+- Visionary thinkers and startup-minded individuals
+- People capable of seeing through systems with clarity
+- Builders who think beyond placements and short-term goals
+
+---
+
+## Areas Where I Seek Guidance
+- Expanding mindset and gaining clarity
+- Long-term vision and strategic support
+- Connecting with like-minded individuals who understand the present holds infinite possibilities
+
+---
+
+## Learning & Practicing
+- Meditation, self-work, and deep self-reflection
+- Cognitive expansion and dynamic thinking
+- Logical, analytical, abstract, and rational reasoning
+- Integrating DSA and Python with multiple disciplines
+
+---
+
+## Ask Me About
+- DSA and problem-solving logic
+- Philosophy, consciousness, and layers of mind
+- Hidden mathematics and universal structures
+- Interconnections across seemingly unrelated domains
+
+---
+
+## Personal Notes
+I value silence, deep reflection, and honest exploration. My approach combines clarity, minimalism, and depth.  
+I see myself as:
+- Cool, intellectual, and deep  
+- Scientific, spiritual, and achievement-oriented  
+- Focused on understanding systems rather than merely existing within them
+
 ---
 🌐 Check out my Portfolio Project:
 🚀 [![Portfolio](https://img.shields.io/badge/Portfolio-🚀Live-blue)](https://itsme-ishaan.github.io/FullStack-Project/)[FullStack Portfolio Project Live ](https://itsme-ishaan.github.io/FullStack-Project/)
