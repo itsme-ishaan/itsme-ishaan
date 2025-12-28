@@ -20,5 +20,19 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=itsme-ishaan&icon=0&color=0)](https://visitcount.itsvg.in)
+<!--  ______________________________________________________________________________ -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/rizzwithish?theme=dark&font=JetBrains%20Mono&ext=heatmap)
+
+---
+![GFG Stats](https://gfgstatscard.vercel.app/rizzwithish?theme=dark)
+
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsme-ishaan&show_icons=true&theme=dark&icon_color=00ff00&text_color=ffffff&bg_color=000000)
+
+---
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+
+---
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
