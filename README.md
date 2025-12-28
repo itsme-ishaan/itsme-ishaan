@@ -33,6 +33,19 @@
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 
 ---
+## 📘 100 Days DSA Challenge (College Program)
+
+🧠 **Official DSA Sheet (College Provided)**  
+🔗 https://docs.google.com/spreadsheets/d/1vKBPfP20WQfwpBAceox-7Ulr-ld-4J9lhsOfH7IJulk  
+
+📊 **My Personal Performance Tracker – Ishaan Gaur**  
+🔗 https://docs.google.com/spreadsheets/d/117zJovXRcshqyZN4fKGY3B4-UXOiNUH2OnGRrLiLyyE  
+
+🟢 This sheet reflects my real-time progress, consistency, and problem-solving discipline  
+🟢 Focused on logic-building, pattern recognition, and long-term mastery  
+
+---
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
