@@ -78,6 +78,26 @@ https://itsme-ishaan.github.io/FullStack-Portfolio-Project/
 > and system-level thinking. Built to scale with my skills.
 
 ---
+🌐 Check out my Wather App Project:
+## 🌦️ Weather App (API-Based Project)
+
+🚀 **Live Demo:**  
+[![Weather App](https://img.shields.io/badge/Weather%20App-Live-blue?style=for-the-badge&logo=cloudflare)](https://itsme-ishaan.github.io/WeatherApp-Using-API/)
+
+🔗 **Direct Link:**  
+https://itsme-ishaan.github.io/WeatherApp-Using-API/
+
+---
+
+### 🧠 Built With
+- HTML  
+- CSS  
+- JavaScript  
+- Weather API (Real-time data)
+
+> A clean, responsive weather application that fetches real-time data using APIs.  
+> Focused on asynchronous logic, API handling, and user-centric UI clarity.
+---
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/wkdESXuAaq) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rizzwithish/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rizzwithish/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@rizzwithish) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishaangaurpwl@gmail.com) 
