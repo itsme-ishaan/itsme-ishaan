@@ -133,10 +133,9 @@ https://itsme-ishaan.github.io/WeatherApp-Using-API/
 ## 📘 100 Days DSA Challenge (College Program)
 
 🧠 **Official DSA Sheet (College Provided)**  
-🔗 https://docs.google.com/spreadsheets/d/1vKBPfP20WQfwpBAceox-7Ulr-ld-4J9lhsOfH7IJulk  
-
+🔗 https://docs.google.com/spreadsheets/d/117zJovXRcshqyZN4fKGY3B4-UXOiNUH2OnGRrLiLyyE/edit?gid=707151604#gid=707151604&range=30:30
 📊 **My Personal Performance Tracker – Ishaan Gaur**  
-🔗 https://docs.google.com/spreadsheets/d/117zJovXRcshqyZN4fKGY3B4-UXOiNUH2OnGRrLiLyyE  
+🔗 https://docs.google.com/spreadsheets/d/117zJovXRcshqyZN4fKGY3B4-UXOiNUH2OnGRrLiLyyE/edit?gid=707151604#gid=707151604&range=30:30 
 
 🟢 This sheet reflects my real-time progress, consistency, and problem-solving discipline  
 🟢 Focused on logic-building, pattern recognition, and long-term mastery  
@@ -144,8 +143,8 @@ https://itsme-ishaan.github.io/WeatherApp-Using-API/
 ---
 ### 📈 Live DSA Progress (Auto-Updated)
 
-**DSA Progress:** `--/100`  
-🟢 **Completion:** `--%`
+**DSA Progress:** `85/100`  
+🟢 **Completion:** `85%`
 
 ![DSA Progress Badge](https://img.shields.io/badge/100%20Days%20DSA-In%20Progress-brightgreen?style=for-the-badge)
 
